@@ -27,21 +27,21 @@ in production version).
 LabZM displays transactions in hexadecimal format before it broadcasts them, 
 so you can use it for transaction generation only if you wish (by cancelling broadcasting steps). 
 You can easily copy and paste transactions and broadcast them some other way, 
-or decode them online to inspect them).
+or decode them online to inspect them.
 
 ## Address Orientation
 
 LabZM wallet lets you create transactions on particular addresses, in addition to wallet-scoped
-operations. Wallet makes it ease to transfer funds between addresses of the same wallet, or
-pay from a given address in a wallet. Time-locking also can be performed on wallet-scoped funds
-and on funds from a particular address.
+operations. Wallet makes it easy to transfer funds between addresses of the same wallet, or
+pay from a given address in general. Time-locking also can be performed on both: wallet-scoped funds
+and particular address' funds.
 
 ## Limitations
 
-Currently, LabZM wallet supports only legacy bitcoin addresses and is only available on Mac.
-Segwit and taproot versions are planned asap.
+Currently, LabZM wallet supports legacy bitcoin addresses only and is only available on Mac.
+Segwit version is planned asap.
 
-Time-locking has the following limitation - you cannot time-lock more funds than the
+Time-locking has the following limitation: you cannot time-lock more funds than the
 largest address in the wallet. If you need to timelock more funds than the largest address
 in your wallet, you need to transfer funds between addresses to create big enough address. 
 It is easy to make such transfers with LabZM.

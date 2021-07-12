@@ -48,4 +48,4 @@ It is easy to make such transfers with LabZM.
 
 ## Demo
 
-Please have a look at demonstration video at: https://youtu.be/7oNQKWGYkwk
+Please have a look at demonstration video at: https://www.youtube.com/watch?v=eBqC2IIbnQA
